@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蝶恋花</string>
+    <string name="app_exit">退出</string>
+    <string name="app_back">返回</string>
+    <string name="app_start_music">播放音乐</string>
+    <string name="app_stop_music">停止音乐</string>
+    <string name="last_one">已经是最后一篇</string>
+ <string name="first_one">已经是第一篇</string>
+</resources>
